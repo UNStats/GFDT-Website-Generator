@@ -1,642 +1,642 @@
 {
 
-	"Name": "Global Fundamental geospatial data themes",
+	"name": "Global Fundamental geospatial data themes",
 	
-	"Reference Frame": [{
-		"Title": "Global Geodetic Reference Frame",
-		"Description": "The Global Geodetic Reference Frame (GGRF) is the framework which allows users to precisely determine and express locations on the Earth, as well as to quantify changes of the Earth in space and time. It is not a data theme in the sense of the other themes, but it is a prerequisite for the accurate collection, integration and use of all other geospatial data.",
+	"referenceframe": [{
+		"title": "Global Geodetic Reference Frame",
+		"description": "The Global Geodetic Reference Frame (GGRF) is the framework which allows users to precisely determine and express locations on the Earth, as well as to quantify changes of the Earth in space and time. It is not a data theme in the sense of the other themes, but it is a prerequisite for the accurate collection, integration and use of all other geospatial data.",
 		"SDGs": [{
-				"Nmuber": "2",
+				"number": "2",
 				"relevance": "100"
 			},
 			{
-				"Nmuber": "6",
+				"number": "6",
 				"relevance": "100"
 			},
 			{
-				"Nmuber": "7",
+				"number": "7",
 				"relevance": "100"
 			},
 			{
-				"Nmuber": "8",
+				"number": "8",
 				"relevance": "100"
 			},
 			{
-				"Nmuber": "9",
+				"number": "9",
 				"relevance": "100"
 			},
 			{
-				"Nmuber": "10",
+				"number": "10",
 				"relevance": "100"
 			},
 			{
-				"Nmuber": "11",
+				"number": "11",
 				"relevance": "100"
 			},
 			{
-				"Nmuber": "12",
+				"number": "12",
 				"relevance": "100"
 			},
 			{
-				"Nmuber": "13",
+				"number": "13",
 				"relevance": "100"
 			},
 			{
-				"Nmuber": "14",
+				"number": "14",
 				"relevance": "100"
 			},
 			{
-				"Nmuber": "15",
+				"number": "15",
 				"relevance": "100"
 			},
 			{
-				"Nmuber": "16",
+				"number": "16",
 				"relevance": "100"
 			}
 		]
 	}],
 
-	"Themes": [{
-			"Title": "Addresses",
-			"Description": "An address is a structured label, usually containing a property number, a street name and a locality name. It’s used to identify a plot of land, a building or part of a building, or some other construction, together with coordinates indicating their geographic position. Addresses are often used as a proxy for other data themes such as Land Parcels.",
+	"themes": [{
+			"title": "Addresses",
+			"description": "An address is a structured label, usually containing a property number, a street name and a locality name. It’s used to identify a plot of land, a building or part of a building, or some other construction, together with coordinates indicating their geographic position. Addresses are often used as a proxy for other data themes such as Land Parcels.",
 			"SDGs": [{
-					"Nmuber": "4",
+					"number": "4",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "6",
+					"number": "6",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "7",
+					"number": "7",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "9",
+					"number": "9",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "11",
+					"number": "11",
 					"relevance": "100"
 				}
 			]
 		},
 		{
-			"Title": "Bulidings and Settlements",
-			"Description": "A building refers to any roofed structure permanently constructed or erected on its site, for the protection of humans, animals, things, or the production of economic goods. Settlements are collections of buildings and associated features where a community carries out socio-economic activities",
+			"title": "Bulidings and Settlements",
+			"description": "A building refers to any roofed structure permanently constructed or erected on its site, for the protection of humans, animals, things, or the production of economic goods. Settlements are collections of buildings and associated features where a community carries out socio-economic activities",
 			"SDGs": [{
-					"Nmuber": "9",
+					"number": "9",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "11",
+					"number": "11",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "12",
+					"number": "12",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "1",
+					"number": "1",
 					"relevance": "60"
 				},
 				{
-					"Nmuber": "3",
+					"number": "3",
 					"relevance": "60"
 				},
 				{
-					"Nmuber": "4",
+					"number": "4",
 					"relevance": "60"
 				},
 				{
-					"Nmuber": "6",
+					"number": "6",
 					"relevance": "60"
 				},
 				{
-					"Nmuber": "7",
+					"number": "7",
 					"relevance": "60"
 				},
 				{
-					"Nmuber": "13",
+					"number": "13",
 					"relevance": "60"
 				}
 			]
 		},
 		{
-			"Title": "Elevation and Depth",
-			"Description": "This theme describes the surface of the earth both on land and under a body of water, relative to a vertical datum.",
+			"title": "Elevation and Depth",
+			"description": "This theme describes the surface of the earth both on land and under a body of water, relative to a vertical datum.",
 			"SDGs": [{
-					"Nmuber": "1",
+					"number": "1",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "2",
+					"number": "2",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "3",
+					"number": "3",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "6",
+					"number": "6",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "7",
+					"number": "7",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "11",
+					"number": "11",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "13",
+					"number": "13",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "14",
+					"number": "14",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "15",
+					"number": "15",
 					"relevance": "100"
 				}
 			]
 		},
 		{
-			"Title": "Functional Areas",
-			"Description": "Functional Areas are the geographical extent of administrative, legislative, regulatory, electoral, statistical, governance, service delivery and activity management areas.",
+			"title": "Functional Areas",
+			"description": "Functional Areas are the geographical extent of administrative, legislative, regulatory, electoral, statistical, governance, service delivery and activity management areas.",
 			"SDGs": [{
-					"Nmuber": "1",
+					"number": "1",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "2",
+					"number": "2",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "3",
+					"number": "3",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "4",
+					"number": "4",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "5",
+					"number": "5",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "6",
+					"number": "6",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "7",
+					"number": "7",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "8",
+					"number": "8",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "9",
+					"number": "9",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "10",
+					"number": "10",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "11",
+					"number": "11",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "12",
+					"number": "12",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "13",
+					"number": "13",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "14",
+					"number": "14",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "15",
+					"number": "15",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "16",
+					"number": "16",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "17",
+					"number": "17",
 					"relevance": "100"
 				}
 
 			]
 		},
 		{
-			"Title": "Geographical Names",
-			"Description": "Geographical names provide orientation and identity to places. They are location identifiers for cultural and physical features of the real world, such as regions, settlements, or any feature of public or historical interest. They are often used as a proxy for other data themes such as Settlements.",
+			"title": "Geographical Names",
+			"description": "Geographical names provide orientation and identity to places. They are location identifiers for cultural and physical features of the real world, such as regions, settlements, or any feature of public or historical interest. They are often used as a proxy for other data themes such as Settlements.",
 			"SDGs": [{
-					"Nmuber": "1",
+					"number": "1",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "2",
+					"number": "2",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "3",
+					"number": "3",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "4",
+					"number": "4",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "5",
+					"number": "5",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "6",
+					"number": "6",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "7",
+					"number": "7",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "8",
+					"number": "8",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "9",
+					"number": "9",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "10",
+					"number": "10",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "11",
+					"number": "11",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "12",
+					"number": "12",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "13",
+					"number": "13",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "14",
+					"number": "14",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "15",
+					"number": "15",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "16",
+					"number": "16",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "17",
+					"number": "17",
 					"relevance": "100"
 				}
 			]
 		}, {
-			"Title": "Geology and Soils",
-			"Description": "Geology is the composition and properties of geologic materials (rocks and sediments) underground and outcropping at the land‘s surface. It includes bedrock, aquifers, geomorphology for land and marine environments, mineral resources and overlying soils. Soil is the upper part of the earth’s crust, formed by mineral particles, organic matter, water, air and living organisms.",
+			"title": "Geology and Soils",
+			"description": "Geology is the composition and properties of geologic materials (rocks and sediments) underground and outcropping at the land‘s surface. It includes bedrock, aquifers, geomorphology for land and marine environments, mineral resources and overlying soils. Soil is the upper part of the earth’s crust, formed by mineral particles, organic matter, water, air and living organisms.",
 			"SDGs": [{
-					"Nmuber": "2",
+					"number": "2",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "3",
+					"number": "3",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "6",
+					"number": "6",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "7",
+					"number": "7",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "8",
+					"number": "8",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "9",
+					"number": "9",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "11",
+					"number": "11",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "12",
+					"number": "12",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "13",
+					"number": "13",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "14",
+					"number": "14",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "15",
+					"number": "15",
 					"relevance": "100"
 				}
 			]
 		},
 		{
-			"Title": "Land Cover and Land Use",
-			"Description": "Land cover represents the physical and biological cover of the earth’s surface. Land use is the current and future planned management, and modification of the natural environment for different human purposes or economic activities.",
+			"title": "Land Cover and Land Use",
+			"description": "Land cover represents the physical and biological cover of the earth’s surface. Land use is the current and future planned management, and modification of the natural environment for different human purposes or economic activities.",
 			"SDGs": [{
-					"Nmuber": "1",
+					"number": "1",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "2",
+					"number": "2",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "3",
+					"number": "3",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "5",
+					"number": "5",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "6",
+					"number": "6",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "7",
+					"number": "7",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "8",
+					"number": "8",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "9",
+					"number": "9",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "11",
+					"number": "11",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "12",
+					"number": "12",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "13",
+					"number": "13",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "14",
+					"number": "14",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "15",
+					"number": "15",
 					"relevance": "100"
 				}
 			]
 		},
 		{
-			"Title": "Land Parcels",
-			"Description": "Areas of land or more generally of the Earth’s surface (land and/or water) under common rights (such as ownership or easements), claims (such as minerals or indigenous land) or use. This theme can include individual fields and cadastral parcels.",
+			"title": "Land Parcels",
+			"description": "Areas of land or more generally of the Earth’s surface (land and/or water) under common rights (such as ownership or easements), claims (such as minerals or indigenous land) or use. This theme can include individual fields and cadastral parcels.",
 			"SDGs": [{
-					"Nmuber": "1.4",
+					"number": "1.4",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "2.4",
+					"number": "2.4",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "8",
+					"number": "8",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "11.1",
+					"number": "11.1",
 					"relevance": "100"
 				}
 			]
 		},
 		{
-			"Title": "Orthoimagery",
-			"Description": "Orthoimagery is geo-referenced rectified image data of the Earth's surface, from satellite or airborne sensors. (Although technically not a theme in its own right, orthoimagery is included as, when interpreted, it’s a widely-used data source for many other data themes.)",
+			"title": "Orthoimagery",
+			"description": "Orthoimagery is geo-referenced rectified image data of the Earth's surface, from satellite or airborne sensors. (Although technically not a theme in its own right, orthoimagery is included as, when interpreted, it’s a widely-used data source for many other data themes.)",
 			"SDGs": [{
-					"Nmuber": "2",
+					"number": "2",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "6",
+					"number": "6",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "9",
+					"number": "9",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "11",
+					"number": "11",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "14",
+					"number": "14",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "15",
+					"number": "15",
 					"relevance": "100"
 				}
 			]
 		},
 		{
-			"Title": "Physical Infrastructure",
-			"Description": "This theme includes industrial & utility facilities, and the service delivery facilities associated with administrative & social governmental services such as public administrations, utilities, transport, civil protection, schools and hospitals.",
+			"title": "Physical Infrastructure",
+			"description": "This theme includes industrial & utility facilities, and the service delivery facilities associated with administrative & social governmental services such as public administrations, utilities, transport, civil protection, schools and hospitals.",
 			"SDGs": [{
-					"Nmuber": "3",
+					"number": "3",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "4",
+					"number": "4",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "6",
+					"number": "6",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "7",
+					"number": "7",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "9",
+					"number": "9",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "11",
+					"number": "11",
 					"relevance": "100"
 				}
 			]
 		},
 		{
-			"Title": "Population Distribution",
-			"Description": "It’s vital to understand the spatial distribution of the population and its characteristics, as well as how population impacts urbanisation, regional development or sustainability. More than half of the world’s population already lives in urban areas, while the remaining rural population increasingly depends on urban centres for social and economic progress. The theme supports policies to improve and create sustainable rural and urban living conditions. Some populations are transitory as a result of mass immigration, refuge, or displacement by large natural disasters or war. It’s important to understand how policy and programmes impact migration and population growth, as well as economic activity, social well-being, and quality of life.",
+			"title": "Population Distribution",
+			"description": "It’s vital to understand the spatial distribution of the population and its characteristics, as well as how population impacts urbanisation, regional development or sustainability. More than half of the world’s population already lives in urban areas, while the remaining rural population increasingly depends on urban centres for social and economic progress. The theme supports policies to improve and create sustainable rural and urban living conditions. Some populations are transitory as a result of mass immigration, refuge, or displacement by large natural disasters or war. It’s important to understand how policy and programmes impact migration and population growth, as well as economic activity, social well-being, and quality of life.",
 			"SDGs": [{
-					"Nmuber": "1",
+					"number": "1",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "2",
+					"number": "2",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "3",
+					"number": "3",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "4",
+					"number": "4",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "5",
+					"number": "5",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "6",
+					"number": "6",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "7",
+					"number": "7",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "8",
+					"number": "8",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "9",
+					"number": "9",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "10",
+					"number": "10",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "11",
+					"number": "11",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "12",
+					"number": "12",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "13",
+					"number": "13",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "14",
+					"number": "14",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "15",
+					"number": "15",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "16",
+					"number": "16",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "17",
+					"number": "17",
 					"relevance": "100"
 				}
 			]
 		},
 		{
-			"Title": "Transport Networks",
-			"Description": "Transport Networks are the suite of road, rail, air and water transport routes and their connectivity.",
+			"title": "Transport Networks",
+			"description": "Transport Networks are the suite of road, rail, air and water transport routes and their connectivity.",
 			"SDGs": [{
-					"Nmuber": "2",
+					"number": "2",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "3",
+					"number": "3",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "8",
+					"number": "8",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "9",
+					"number": "9",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "11",
+					"number": "11",
 					"relevance": "100"
 				}
 			]
 		},
 		{
-			"Title": "Water",
-			"Description": "Extent and conditions of all water features including rivers, lakes and marine features.",
+			"title": "Water",
+			"description": "Extent and conditions of all water features including rivers, lakes and marine features.",
 			"SDGs": [{
-					"Nmuber": "6",
+					"number": "6",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "14",
+					"number": "14",
 					"relevance": "100"
 				},
 				{
-					"Nmuber": "2",
+					"number": "2",
 					"relevance": "60"
 				},
 				{
-					"Nmuber": "3",
+					"number": "3",
 					"relevance": "60"
 				},
 				{
-					"Nmuber": "7",
+					"number": "7",
 					"relevance": "60"
 				},
 				{
-					"Nmuber": "9",
+					"number": "9",
 					"relevance": "60"
 				},
 				{
-					"Nmuber": "11",
+					"number": "11",
 					"relevance": "60"
 				},
 				{
-					"Nmuber": "12",
+					"number": "12",
 					"relevance": "60"
 				},
 				{
-					"Nmuber": "13",
+					"number": "13",
 					"relevance": "60"
 				},
 				{
-					"Nmuber": "14",
+					"number": "14",
 					"relevance": "60"
 				},
 				{
-					"Nmuber": "15",
+					"number": "15",
 					"relevance": "60"
 				}
 			]
