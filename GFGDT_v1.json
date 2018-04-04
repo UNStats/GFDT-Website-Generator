@@ -1,62 +1,62 @@
 {
 
 	"name": "Global Fundamental geospatial data themes",
-	
-	"referenceframe": [{
-		"title": "Global Geodetic Reference Frame",
-		"description": "The Global Geodetic Reference Frame (GGRF) is the framework which allows users to precisely determine and express locations on the Earth, as well as to quantify changes of the Earth in space and time. It is not a data theme in the sense of the other themes, but it is a prerequisite for the accurate collection, integration and use of all other geospatial data.",
-		"SDGs": [{
-				"number": "2",
-				"relevance": "100"
-			},
-			{
-				"number": "6",
-				"relevance": "100"
-			},
-			{
-				"number": "7",
-				"relevance": "100"
-			},
-			{
-				"number": "8",
-				"relevance": "100"
-			},
-			{
-				"number": "9",
-				"relevance": "100"
-			},
-			{
-				"number": "10",
-				"relevance": "100"
-			},
-			{
-				"number": "11",
-				"relevance": "100"
-			},
-			{
-				"number": "12",
-				"relevance": "100"
-			},
-			{
-				"number": "13",
-				"relevance": "100"
-			},
-			{
-				"number": "14",
-				"relevance": "100"
-			},
-			{
-				"number": "15",
-				"relevance": "100"
-			},
-			{
-				"number": "16",
-				"relevance": "100"
-			}
-		]
-	}],
-
 	"themes": [{
+
+			"title": "Global Geodetic Reference Frame",
+			"description": "The Global Geodetic Reference Frame (GGRF) is the framework which allows users to precisely determine and express locations on the Earth, as well as to quantify changes of the Earth in space and time. It is not a data theme in the sense of the other themes, but it is a prerequisite for the accurate collection, integration and use of all other geospatial data.",
+			"SDGs": [{
+					"number": "2",
+					"relevance": "100"
+				},
+				{
+					"number": "6",
+					"relevance": "100"
+				},
+				{
+					"number": "7",
+					"relevance": "100"
+				},
+				{
+					"number": "8",
+					"relevance": "100"
+				},
+				{
+					"number": "9",
+					"relevance": "100"
+				},
+				{
+					"number": "10",
+					"relevance": "100"
+				},
+				{
+					"number": "11",
+					"relevance": "100"
+				},
+				{
+					"number": "12",
+					"relevance": "100"
+				},
+				{
+					"number": "13",
+					"relevance": "100"
+				},
+				{
+					"number": "14",
+					"relevance": "100"
+				},
+				{
+					"number": "15",
+					"relevance": "100"
+				},
+				{
+					"number": "16",
+					"relevance": "100"
+				}
+			]
+		},
+		{
+
 			"title": "Addresses",
 			"description": "An address is a structured label, usually containing a property number, a street name and a locality name. It’s used to identify a plot of land, a building or part of a building, or some other construction, together with coordinates indicating their geographic position. Addresses are often used as a proxy for other data themes such as Land Parcels.",
 			"SDGs": [{
@@ -309,7 +309,8 @@
 					"relevance": "100"
 				}
 			]
-		}, {
+		},
+		{
 			"title": "Geology and Soils",
 			"description": "Geology is the composition and properties of geologic materials (rocks and sediments) underground and outcropping at the land‘s surface. It includes bedrock, aquifers, geomorphology for land and marine environments, mineral resources and overlying soils. Soil is the upper part of the earth’s crust, formed by mineral particles, organic matter, water, air and living organisms.",
 			"SDGs": [{
