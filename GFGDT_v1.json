@@ -420,11 +420,11 @@
 			"title": "Land Parcels",
 			"description": "Areas of land or more generally of the Earth’s surface (land and/or water) under common rights (such as ownership or easements), claims (such as minerals or indigenous land) or use. This theme can include individual fields and cadastral parcels.",
 			"SDGs": [{
-					"number": "1.4",
+					"number": "1",
 					"relevance": "100"
 				},
 				{
-					"number": "2.4",
+					"number": "2",
 					"relevance": "100"
 				},
 				{
@@ -432,7 +432,7 @@
 					"relevance": "100"
 				},
 				{
-					"number": "11.1",
+					"number": "11",
 					"relevance": "100"
 				}
 			]
