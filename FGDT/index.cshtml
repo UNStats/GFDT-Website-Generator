@@ -1,0 +1,55 @@
+@using Newtonsoft.Json;
+@using Newtonsoft.Json.Linq;
+
+@{
+    Layout = "~/_SiteLayout-fgdt.cshtml";
+    
+
+
+
+	var file = Server.MapPath("~/app_data/fgdt.json");
+	var data = File.ReadAllText(file);
+
+	// Create a list with the contents of the JSON file:
+	var fdThemes   = JsonConvert.DeserializeObject<List<functionsFGDT.FunGeo>>(data).ToList();
+
+	
+
+    if(!Request["id"].IsEmpty()) {
+        fdThemes = fdThemes.Where(i => i.id.Contains(Request["id"])).ToList();
+    }
+	
+}
+<div class="row">	
+
+	@{
+		
+	  foreach (var i in fdThemes)  {
+		<div class="col-md-3">
+        	<img src="~/FGDT/img/@i.logo" class="img-responsive">
+        </div>
+			<div class="col-md-9">
+        		<h3> @i.title  </h3>
+				<hr style="margin:5px">
+				<h5>@i.description </h5>
+				
+		<hr style="margin:5px">
+			@foreach (var j in i.SDGs){
+				<img src="~/FGDT/img/sdg-icons/@(j.number).jpg" class="img-responsive" width="80">
+
+			}
+
+
+		</div>	
+
+
+
+	}
+					
+}
+
+</div>
+
+		
+
+
